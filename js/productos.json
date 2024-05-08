@@ -1,0 +1,182 @@
+[
+    {
+        "id": "abrigo-01",
+        "titulo": "Laptop 01",
+        "imagen": "./img/abrigos/01.jpg",
+        "categoria": {
+            "nombre": "Laptops",
+            "id": "abrigos"
+        },
+        "precio": 5100
+    },
+    {
+        "id": "abrigo-02",
+        "titulo": "Laptop 02",
+        "imagen": "./img/abrigos/02.jpg",
+        "categoria": {
+            "nombre": "Laptops",
+            "id": "abrigos"
+        },
+        "precio": 7050
+    },
+    {
+        "id": "abrigo-03",
+        "titulo": "Laptop 03",
+        "imagen": "./img/abrigos/03.jpg",
+        "categoria": {
+            "nombre": "Laptops",
+            "id": "abrigos"
+        },
+        "precio": 4500
+    },
+    {
+        "id": "abrigo-04",
+        "titulo": "Laptop 04",
+        "imagen": "./img/abrigos/04.jpg",
+        "categoria": {
+            "nombre": "Laptops",
+            "id": "abrigos"
+        },
+        "precio": 6099
+    },
+    {
+        "id": "abrigo-05",
+        "titulo": "Laptop 05",
+        "imagen": "./img/abrigos/05.jpg",
+        "categoria": {
+            "nombre": "Laptops",
+            "id": "abrigos"
+        },
+        "precio": 8500
+    },
+    {
+        "id": "camiseta-01",
+        "titulo": "Audifono 01",
+        "imagen": "./img/camisetas/01.jpg",
+        "categoria": {
+            "nombre": "Audifonos",
+            "id": "camisetas"
+        },
+        "precio": 600
+    },
+    {
+        "id": "camiseta-02",
+        "titulo": "Audifono 02",
+        "imagen": "./img/camisetas/02.jpg",
+        "categoria": {
+            "nombre": "Audifonos",
+            "id": "camisetas"
+        },
+        "precio": 700
+    },
+    {
+        "id": "camiseta-03",
+        "titulo": "Audifono 03",
+        "imagen": "./img/camisetas/03.jpg",
+        "categoria": {
+            "nombre": "Audifonos",
+            "id": "camisetas"
+        },
+        "precio": 550
+    },
+    {
+        "id": "camiseta-04",
+        "titulo": "Audifono 04",
+        "imagen": "./img/camisetas/04.jpg",
+        "categoria": {
+            "nombre": "Audifonos",
+            "id": "camisetas"
+        },
+        "precio": 800
+    },
+    {
+        "id": "camiseta-05",
+        "titulo": "Audifono 05",
+        "imagen": "./img/camisetas/05.jpg",
+        "categoria": {
+            "nombre": "Audifonos",
+            "id": "camisetas"
+        },
+        "precio": 900
+    },
+    {
+        "id": "camiseta-06",
+        "titulo": "Audifono 06",
+        "imagen": "./img/camisetas/06.jpg",
+        "categoria": {
+            "nombre": "Audifonos",
+            "id": "camisetas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "camiseta-07",
+        "titulo": "Audifono 07",
+        "imagen": "./img/camisetas/07.jpg",
+        "categoria": {
+            "nombre": "Audifonos",
+            "id": "camisetas"
+        },
+        "precio": 999
+    },
+    {
+        "id": "camiseta-08",
+        "titulo": "Audifono 08",
+        "imagen": "./img/camisetas/08.jpg",
+        "categoria": {
+            "nombre": "Audifonos",
+            "id": "camisetas"
+        },
+        "precio": 650
+    },
+    {
+        "id": "pantalon-01",
+        "titulo": "Cable 01",
+        "imagen": "./img/pantalones/01.jpg",
+        "categoria": {
+            "nombre": "Cables",
+            "id": "pantalones"
+        },
+        "precio": 350
+    },
+    {
+        "id": "pantalon-02",
+        "titulo": "Cable 02",
+        "imagen": "./img/pantalones/02.jpg",
+        "categoria": {
+            "nombre": "Cables",
+            "id": "pantalones"
+        },
+        "precio": 200
+    },
+    {
+        "id": "pantalon-03",
+        "titulo": "Cable 03",
+        "imagen": "./img/pantalones/03.jpg",
+        "categoria": {
+            "nombre": "Cables",
+            "id": "pantalones"
+        },
+        "precio": 299
+    },
+    {
+        "id": "pantalon-04",
+        "titulo": "Cable 04",
+        "imagen": "./img/pantalones/04.jpg",
+        "categoria": {
+            "nombre": "Cables",
+            "id": "pantalones"
+        },
+        "precio": 350
+    },
+    {
+        "id": "pantalon-05",
+        "titulo": "Cable 05",
+        "imagen": "./img/pantalones/05.jpg",
+        "categoria": {
+            "nombre": "Cables",
+            "id": "pantalones"
+        },
+        "precio": 400
+    }
+]
